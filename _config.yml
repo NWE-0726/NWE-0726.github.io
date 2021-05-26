@@ -1,0 +1,36 @@
+# Site Settings
+title: About Me - Akshay Bhatia
+url: 'https://nwezinphyo.github.io'
+baseurl: '' #change it according to your repository name
+
+# Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
+#style: styles-2
+#style: styles-3
+#style: styles-4
+#style: styles-5
+#style: styles-6
+
+#Profile information
+name: Akshay Bhatia
+tagline: Computer Science Graduate and Software Developer
+pic: Profile2.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+summary: 'I am a Computer Science graduate from Rutgers University, NJ. I have more than 5 years of programming experience in Java and almost 2 years of programming experience in Python. I am also a certified web developer and I am proficient in HTML/CSS, JavaScript, PHP, JQuery, and AJAX. I have worked with big data technologies such as Hadoop and Apache SPARK and have also deployed projects on AWS and Google Cloud Platform. I am passionate about software development and data analytics and I am actively looking for opportunities to kick start my professional career. You can scroll down to view my Resume or <a href="/resume_akshay_bhatia.pdf" target="_blank">click here to download it</a>. '
+
+#sidebar links
+email: akshay.bhatia@live.com
+phone: +1(201)606-1877
+#website: blog.webjeda.com #do not add http://
+linkedin: akshayb6
+github: akshayb6
+twitter: '@thatbhatia'
+#Update all the sections by editing the files inside _data folder.
+
+# Tracker
+analytics: UA-61197187-2
+
+# Build settings
+encoding: "utf-8"
+compress_html: # - http://jch.penibelst.de/
+  clippings: all
+  ignore:
+    envs: development

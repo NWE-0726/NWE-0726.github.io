@@ -1,0 +1,24 @@
+- skill:
+  name: Python and Django
+  level: 90%
+- skill:
+  name: Java
+  level: 90%
+- skill:
+  name: HTML5,CSS and Bootstrap
+  level: 90%
+- skill:
+  name: MySQL, PostgreSQL
+  level: 90%
+- skill:
+  name: C
+  level: 70%
+- skill:
+  name: Apache SPARK
+  level: 70% 
+- skill:
+  name: AWS
+  level: 70% 
+- skill:
+  name: Android SDK
+  level: 60%

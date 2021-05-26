@@ -1,0 +1,15 @@
+- experience:
+  role: Part Time Lecturer
+  time: January 2017 - Present
+  company: Rutgers University, New Brunswick
+  details: " I currently work as a Teaching Assistant/ Part Time Lecturer at Rutgers 
+  University for the course CS 110: Intro to Computers and their Applications. As a part of this role,
+  I have conducted weekly recitations for undergraduate students in the Spring and Fall 2017 semesters.
+  This course aims to build a strong logical foundation in non-CS majors and I cover topics such as Scratch Programming and Excel."
+- experience:
+  role: Android Application Developer Intern
+  time: May 2014 - July 2014
+  company: Gruh Maintenance and Bill Pay Corporation, Mumbai
+  details: "I served as an Android Application Developer and was responsible for designing the UI and other components for their Android App 
+  which interacted with REST services and fetched data in JSON. The app is avaialable for download on the Google Play Store"
+
