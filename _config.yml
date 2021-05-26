@@ -1,7 +1,7 @@
 # Site Settings
 title: About Me - Akshay Bhatia
-url: 'https://nwezinphyo.github.io'
-baseurl: 'https://nwezinphyo.github.io' #change it according to your repository name
+url: 'https://nyinyisoepaing.github.io/nwezinphyo.github.io'
+baseurl: '' #change it according to your repository name
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
 #style: styles-2
